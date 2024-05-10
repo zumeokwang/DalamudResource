@@ -1,9 +1,0 @@
-{
-    "version": "1.0.6.8",
-    "downloadurl": "https://xlweb.xivpf.xyz/Updater/Download",
-    "hash": "7559718DF2B391C2EA17A119B1749E85",
-    "changelog": "",
-    "config": {
-        "SafeMode": false
-    }
-}
