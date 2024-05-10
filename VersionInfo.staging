@@ -1,9 +1,9 @@
 {
-    "AssemblyVersion": "9.1.0.5",
-    "SupportedGameVer": "2024.03.28.0000.0000",
-    "DownloadUrl": "https://github.com/dohwacorp/Dalamud/releases/download/9.1.0.5/dalamud.zip",
+    "AssemblyVersion": "9.1.0.10",
+    "SupportedGameVer": "2024.04.18.0000.0000",
+    "DownloadUrl": "https://xlweb.xivpf.xyz/File/Get/latest.fb2b1436d607fbc96e5a263fa68d28df2747e297454b76180143a2094a81df0a.zip",
     "RuntimeVersion": "8.0.0",
     "RuntimeRequired": true,
-    "Key": "9.1.0.5",
+    "Key": null,
     "Hash": null
 }
