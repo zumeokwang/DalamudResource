@@ -1,6 +1,6 @@
 {
     "AssemblyVersion": "9.1.0.10",
-    "SupportedGameVer": "2024.07.02.0000.0000",
+    "SupportedGameVer": "2024.09.11.0000.0000",
     "DownloadUrl": "https://xlweb.xivpf.xyz/File/Get/latest.fb2b1436d607fbc96e5a263fa68d28df2747e297454b76180143a2094a81df0a.zip",
     "RuntimeVersion": "8.0.0",
     "RuntimeRequired": true,
